@@ -8,9 +8,9 @@ type ContributorData = {
 };
 
 async function fetchGitHubContributors(): Promise<ContributorData[]> {
-  const token = process.env.PRISMA_DOCS_GITHUB_TOKEN;
-  const owner = process.env.PRISMA_DOCS_GITHUB_OWNER;
-  const repo = process.env.PRISMA_DOCS_GITHUB_REPO;
+  const token = process.env.WADA_DOCS_GITHUB_TOKEN;
+  const owner = process.env.WADA_DOCS_GITHUB_OWNER;
+  const repo = process.env.WADA_DOCS_GITHUB_REPO;
 
   if (!token || !owner || !repo) {
     throw new Error('Missing environment variables.');

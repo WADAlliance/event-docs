@@ -1,31 +1,9 @@
 [
     {
-      "name": "Shik",
-      "role": "Evaluation",
-      "photo": "/shik.svg",
-      "profile_card_link": "/processes/evaluation",
-      "links": [
-        { "label": "Meet", "url": "https://cal.com/shikharwah", "icon": "FaPhone" },
-        { "label": "LinkedIn", "url": "https://linkedin.com/in/shik", "icon": "FaLinkedinIn" },
-        { "label": "GitHub", "url": "https://github.com/regeneshik", "icon": "FaGithub" }
-      ]
-    },
-    {
-      "name": "Delfi",
-      "role": "Enaction",
-      "photo": "/delfi.svg",
-      "profile_card_link": "/processes/enactment",
-      "links": [
-        { "label": "Meet", "url": "https://cal.com/delfina-terrado", "icon": "FaPhone" },
-        { "label": "LinkedIn", "url": "https://www.linkedin.com/in/delfina-terrado/", "icon": "FaLinkedinIn" },
-        { "label": "Website", "url": "https://iniciativamurmullo.com/", "icon": "FaGlobe" }
-      ]
-    },
-    {
       "name": "Mercy",
-      "role": "Ground-Potential",
+      "role": "Wada",
       "photo": "/mercy.svg",
-      "profile_card_link": "/processes/ground-potentialising",
+      "profile_card_link": "https://www.wada.org",
       "links": [
         { "label": "Meet", "url": "https://cal.com/mercy-wada", "icon": "FaPhone" },
         { "label": "Website", "url": "https://www.wada.org", "icon": "FaGlobe" }
@@ -33,21 +11,13 @@
     },
     {
       "name": "Tabs",
-      "role": "Infrastructure",
+      "role": "Prisma",
       "photo": "/tabs.svg",
-      "profile_card_link": "/processes/process-infrastructuring",
+      "profile_card_link": "https://www.prisma.events",
       "links": [
         { "label": "Meet", "url": "https://cal.com/tbsfchnr", "icon": "FaPhone" },
         { "label": "LinkedIn", "url": "https://linkedin.com/in/tobias-fechner", "icon": "FaLinkedinIn" },
         { "label": "GitHub", "url": "https://github.com/tbsfchnr", "icon": "FaGithub" }
-      ]
-    },
-    {
-      "name": "Noah",
-      "role": "web3 Fundraising",
-      "photo": "/noah.jpg",
-      "profile_card_link": "/context%20&%20narrative",
-      "links": [
       ]
     }
   ]

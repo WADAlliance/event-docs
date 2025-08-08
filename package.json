@@ -1,7 +1,7 @@
 {
-  "name": "prisma-docs",
+  "name": "wada-docs",
   "version": "0.0.2",
-  "description": "Prisma Documentation",
+  "description": "Building the Future with MeTTa, Nairobi, Kenya",
   "scripts": {
     "dev": "next --turbopack",
     "build": "next build",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prisma-collective/docs.git"
+    "url": "git+https://github.com/WADAlliance/docs.git"
   },
-  "author": "Prisma",
+  "author": "Wada",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/prisma-collective/docs/issues"
+    "url": "https://github.com/WADAlliance/docs/issues"
   },
-  "homepage": "https://docs.prisma.events",
+  "homepage": "https://docs.wada.org",
   "dependencies": {
     "@headlessui/react": "^2.2.2",
     "@next/mdx": "^15.2.4",

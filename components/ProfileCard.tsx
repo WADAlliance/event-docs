@@ -61,7 +61,7 @@ export const ProfileCard: FC<ProfileCardProps> = ({
     <div
       className={
         `relative flex flex-col items-center text-center rounded-xl 
-        border p-6 transition hover:border-[#c362ff]/50 
+        border p-6 transition hover:border-wada-c 
         dark:border-neutral-700 bg-white dark:bg-gray-700/30 ${className}`
       }
     >

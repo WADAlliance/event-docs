@@ -80,12 +80,12 @@ const ProfilePopupModal: FC<ProfilePopupModalProps> = ({
                                 </div>
                                 ) : (
                                 <p className="text-center text-gray-500 dark:text-gray-300">
-                                    Loading Telegram data…
+                                    Loading Timelining data…
                                 </p>
                                 )
                             ) : (
                                 <p className="text-center text-gray-400 dark:text-gray-400">
-                                    No Telegram handle found.
+                                    No Timelining data found. Timelining can be used to enable agent-centric contribution accounting, especially useful for distributed teams in emergent environments. Visit <span className="cursor-pointer"><a className="text-[#ef64ff]! hover:text-[#8067ff]!" href="https://evaluate.prisma.events">evaluate.prisma.events</a></span> or ask your event's prisma representative to learn more.
                                 </p>
                                 )}
                             </DialogPanel>

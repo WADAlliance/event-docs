@@ -1,17 +1,36 @@
-@import "tailwindcss";
+@import 'tailwindcss';
 
 @theme {
-  --color-prisma-a: #cd5aff;
-  --color-prisma-b: #8067ff;
-  --color-prisma-c: #ef64ff;
-  --color-prisma-d: #ff4b85;
-  --font-custom: "Space Grotesk", sans-serif;
-  --font-custom-bold: "Bebas Neue", sans-serif;
+    --animate-spin-slow: spin 50s linear infinite;
+
+    --color-wada-a: #fbb315;
+    --color-wada-b: #2ca2db;
+    --color-wada-c: #ef5323;
+    --color-wada-d: #7fb842;
+    --color-wada-e: #12263A;
+    --color-snet-a: #FC9D39;
+    --color-snet-b: #ECE5E1;
+    --color-snet-c: #311E86;
+    --font-custom: 'Greycliff CF', sans-serif;
+}
+
+@font-face {
+  font-family: 'Greycliff CF';
+  src: url('/fonts/Fontspring-DEMO-greycliffcf-extrabold.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Greycliff CF';
+  src: url('/fonts/Fontspring-DEMO-greycliffcf-regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
 }
 
 /* Set the background color for the whole page */
 .dark body {
-    background-color:rgb(0, 0, 0); /* Change this to your desired background color */
+    background-color: #12263A;
     color: #ffffff; 
 }
 
@@ -23,7 +42,7 @@ html:not(.dark) body {
 
 /* Set font style for headings */
 .dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
-    font-family: 'Space Grotesk', sans-serif; 
+    font-family: 'Greycliff CF', sans-serif; 
     color:rgb(249, 249, 249); 
 }
 
@@ -38,76 +57,14 @@ html:not(.dark) h6 {
 
 /* Set font style for links */
 a {
-    color: #7faec2; 
+    color: #7fb842; 
     text-decoration: none; 
 }
 
 /* Add hover effect to links */
 a:hover {
-    color: #c362ff; 
+    color: #fbb315; 
     text-decoration: none; 
-}
-
-.aspect {
-    animation: moveAround linear infinite;
-    transform-origin: center;
-    animation-play-state: running; /* Default to running */
-    opacity: 1;
-    transition: opacity 0.5s ease; /* Smooth transition */
-  }
-
-.aspectAnti {
-  animation: moveAroundAnti linear infinite;
-  transform-origin: center;
-  animation-play-state: running; 
-  opacity: 1;
-  transition: opacity 0.5s ease;
-}
-
-.aspect:hover {
-  opacity: 1;
-  transition: opacity 0.5s ease;
-}
-
-.aspectAnti:hover {
-  opacity: 1;
-  transition: opacity 0.5s ease;
-}
-
-.level:hover .aspect {
-  animation-play-state: paused;
-}
-
-.level:hover .aspectAnti {
-  animation-play-state: paused;
-}
-
-.highlighted {
-  opacity: 1;
-  transition: opacity 2s ease;
-}
-
-.unhighlighted {
-  opacity: 0.2;
-  transition: opacity 2s ease;
-}
-
-@keyframes moveAround {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-@keyframes moveAroundAnti {
-  from {
-    transform: rotate(360deg);
-  }
-  to {
-    transform: rotate(0deg);
-  }
 }
 
 .animated-rect {
@@ -115,7 +72,7 @@ a:hover {
 }
 
 .animated-link:hover .animated-rect {
-  stroke: #cd5aff;
+  stroke: #7fb842;
 }
 
 .linked-path {
@@ -128,7 +85,7 @@ a:hover {
 
 /* Hover Area */
 .hover-area-link:hover .linked-path {
-  stroke: #cd5aff; /* Change the stroke color to red when hovered */
+  stroke: #7fb842; /* Change the stroke color to wada colour when hovered */
   transition: stroke 0.3s ease; /* Smooth transition for stroke color change */
 }
 

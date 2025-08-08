@@ -33,7 +33,7 @@ const EntryPreview: FC<EntryPreviewProps> = ({ entry, type }) => {
 
   return (
     <div className="flex w-full rounded-lg border border-neutral-700 p-4 bg-transparent hover:bg-gray-900">
-      <div className="w-1/5 flex items-center justify-center text-prisma-b ">{icon}</div>
+      <div className="w-1/5 flex items-center justify-center text-wada-b ">{icon}</div>
       <div className="w-auto text-sm text-gray-700 dark:text-gray-100">{content}</div>
     </div>
   );
