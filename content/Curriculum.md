@@ -1,0 +1,32 @@
+# Training Objective
+The objective of this training is to equip trainees with foundational knowledge of MeTTa, focusing on how to represent knowledge, define rules and functions, query knowledge spaces, and integrate them with Python programs to build intelligent applications—delivered in a fully virtual, and possibly interactive environment.
+
+Trainees will learn:
+
+- How to represent knowledge in MeTTa.
+- How to define functions, manipulate query spaces, and manage atoms in MeTTa via shared coding platforms.
+- How to interface between Python and MeTTa to retrieve computed results and integrate them into real-world applications in a virtual workflow.
+
+# Training Content
+### 1. Knowledge Representation in MeTTa
+
+- Introduction to MeTTa syntax and atom-based representations
+- Encoding symbolic relationships (facts, tuples, variables)
+- Representing and querying structured knowledge.
+
+### 2. Basic MeTTa Programming
+
+- Defining Functions in MeTTa
+    - Writing reusable logic
+    - Virtual walkthrough: Creating rules (e.g., sibling relationships)
+        - Querying the Atom Space
+    - Using match and pattern variables for data retrieval
+    - Performing CRUD operations with add-atom and remove-atom.
+
+### 3. Python Integration with MeTTa
+
+- Invoking MeTTa Queries from Python
+    - Using the hyperon Python package to execute metta logic
+        - Retrieving and Processing Computed Results in Python
+    - Returning MeTTa results into Python structures
+        - Mini-Project or Task Integrating MeTTa Logic with Python Code

@@ -20,8 +20,6 @@ const hoverColorClasses = [
   'hover:text-wada-d',
 ];
 
-type IconProps = React.SVGProps<SVGSVGElement>;
-
 const getRandomHoverColor = () => hoverColorClasses[Math.floor(Math.random() * hoverColorClasses.length)];
 
 const navbar = (
