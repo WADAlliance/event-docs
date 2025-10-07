@@ -47,7 +47,7 @@ export async function generateMetadata({ params }: { params: { mdxPath?: string[
       title,
       description,
       url,
-      siteName: "Wada MeTTa Nairobi Hackathon Docs",
+      siteName: "CATS Knowledge Base",
       images: [{ url: image }],
       type: "website",
     },
