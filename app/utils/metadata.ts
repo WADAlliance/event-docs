@@ -17,7 +17,7 @@ const flattenPages = (pages: any[]): PageMapItem[] =>
   }, [] as PageMapItem[]);
 
 export async function generateMetadata({ params }: { params: { mdxPath?: string[] } }) {
-  const title = params?.mdxPath?.join(" ") || "Wada MeTTa Nairobi Hackathon Docs";
+  const title = params?.mdxPath?.join(" ") || "CATS Hackathon Knowledge Base";
   const url = `https://docs.wada.org/${params?.mdxPath?.join("/") || ""}`;
   const image = `https://docs.wada.org/api/og?title=${encodeURIComponent(title)}`;
 

@@ -28,9 +28,13 @@
   font-style: normal;
 }
 
+:root {
+  --nextra-content-width: 100% !important;
+}
+
 /* Set the background color for the whole page */
 .dark body {
-    background-color: #12263A;
+    background-color: #000000;
     color: #ffffff; 
 }
 
@@ -57,13 +61,13 @@ html:not(.dark) h6 {
 
 /* Set font style for links */
 a {
-    color: #7fb842; 
+    color: #fbb315; 
     text-decoration: none; 
 }
 
 /* Add hover effect to links */
 a:hover {
-    color: #fbb315; 
+    color: #2ca2db; 
     text-decoration: none; 
 }
 
@@ -109,4 +113,8 @@ a:hover {
   stroke-dasharray: 6 1;
   stroke-dashoffset: 0;
   animation: dashFlow 2s linear infinite;
+}
+
+.nextra-breadcrumb {
+  @apply max-w-[850px] w-full mx-auto;
 }

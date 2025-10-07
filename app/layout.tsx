@@ -73,6 +73,8 @@ export default async function RootLayout({
     <html lang="en" dir="ltr" suppressHydrationWarning>
       <Head>
         <title>{metadata.title}</title>
+        <link rel="icon" href="/favicon.ico" sizes="64x64" />
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <meta name="description" content={metadata.description} />
         {/* OpenGraph Meta Tags */}
         <meta property="og:title" content={metadata.openGraph.title} />

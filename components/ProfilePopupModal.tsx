@@ -85,7 +85,7 @@ const ProfilePopupModal: FC<ProfilePopupModalProps> = ({
                                 )
                             ) : (
                                 <p className="text-center text-gray-400 dark:text-gray-400">
-                                    No Timelining data found. Timelining can be used to enable agent-centric contribution accounting, especially useful for distributed teams in emergent environments. Visit <span className="cursor-pointer"><a className="text-[#ef64ff]! hover:text-[#8067ff]!" href="https://evaluate.prisma.events">evaluate.prisma.events</a></span> or ask your event's prisma representative to learn more.
+                                    No Timelining data found. <span className="cursor-pointer"><a className="text-[#ef64ff]! hover:text-[#8067ff]!" href="https://docs.prisma.events/processes/process-infrastructuring/timelining">Timelining</a></span> is used to enable agent-centric contribution accounting, especially useful for distributed teams in emergent environments. Visit <span className="cursor-pointer"><a className="text-[#ef64ff]! hover:text-[#8067ff]!" href="https://evaluate.prisma.events">evaluate.prisma.events</a></span> or ask your event's prisma representatives to learn more.
                                 </p>
                                 )}
                             </DialogPanel>
