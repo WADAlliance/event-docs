@@ -1,7 +1,7 @@
 {
   "name": "wada-docs",
   "version": "0.0.2",
-  "description": "Building the Future with MeTTa, Nairobi, Kenya",
+  "description": "CATS Hackathon Knowledge Base",
   "scripts": {
     "dev": "next --turbopack",
     "build": "next build",
