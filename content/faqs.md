@@ -79,6 +79,6 @@ Please see the CATS website — [cats.wada.org](http://cats.wada.org) — for in
 * Hubs should encourage their communities to register now.  
 * More information and updates will be shared regularly.
 
-**12\. If I am not able to participate in a local hackathon with my hub can I/we still submit a project?**
+### **12\. If I am not able to participate in a local hackathon with my hub can I/we still submit a project?**
 
 Yes. You must be enrolled formally in the hackathon before the “enrollment phase”. You must complete the enrollment phase, and may submit a final project. You will not be eligible for the first batch of ADA prizes but are eligible to be among the OVERALL top 5 winning prizes.
