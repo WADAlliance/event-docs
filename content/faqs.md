@@ -1,3 +1,9 @@
+---
+
+sidebarTitle: FAQs
+
+---
+
 ### **1\. Can hub leads also join the hackathon as participants?**
 
 Hub leads are a distinct role to participants. Hub leads will serve as advisors and organizers of the communities they serve, representing the place as a whole. Hub leads can also be part of teams and work on hackathon projects, as participants, however it is their responsibility to ensure this is not compromising the role of hub lead being fulfilled. 
