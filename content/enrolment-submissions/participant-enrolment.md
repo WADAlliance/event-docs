@@ -1,1 +1,1 @@
-<iframe class="airtable-embed" src="https://airtable.com/embed/appL4YbZsWTk1TwGc/shrAFQiIMqFoATOHy?layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="800" style="background: black; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appL4YbZsWTk1TwGc/shrtwxkF2gktuR37f?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="800" style="background: black; border: 1px solid #ccc;"></iframe>
