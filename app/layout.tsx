@@ -45,9 +45,9 @@ const navbar = (
         />
       </>
     }
-    logoLink={"https://www.wada.org/"}
+    logoLink={"https://docs.wada.org/"}
     chatIcon={<FaTelegramPlane className={`${iconClasses} ${getRandomHoverColor()}`} />}
-    chatLink={"https://t.me/+cwjF0iDX0m81M2Y8/"}
+    chatLink={"https://t.me/+RnO5qajd0AVjY2U8"}
     children={
       <div className="inline-flex items-center gap-4">
         {/* X (Twitter) */}
@@ -61,7 +61,7 @@ const navbar = (
 
         {/* Calendar */}
         <a
-          href="https://lu.ma/user/wada"
+          href="https://lu.ma/cats"
           target="_blank"
           rel="noopener noreferrer"
         >
