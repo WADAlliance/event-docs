@@ -50,7 +50,7 @@ Yes. Winners are selected based on project quality but not location. If more tha
 
 ### **4\. Where can I find more information about the hackathon?**
 
-The docs are the knowledge repository for the hackathon, found at [docs.wada.org](http://docs.wada.org). Here is [the telegram group](https://t.me/+RnO5qajd0AVjY2U8) to join for further coordination, which was shared in Luma registration confirmation and is linked in every Navbar. We will be making a dedicated Hubs telegram group shortly. 
+The docs are the knowledge repository for the hackathon, found at [docs.wada.org](https://docs.wada.org). Here is [the telegram group](https://t.me/+RnO5qajd0AVjY2U8) to join for further coordination, which was shared in Luma registration confirmation and is linked in every Navbar. We will be making a dedicated Hubs telegram group shortly. 
 
 ### **5\. What are the project categories/ tracks?**
 

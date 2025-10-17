@@ -1,3 +1,5 @@
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/gKWdJHTK3PM?si=7ACV7GwmQ0geocqd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 The CATS Hackathon Taster II brought together about forty-two people on Zoom for the second session of the Cardano Africa Tech Summit Hackathon series. The meeting took place in the Wada Forum’s virtual room where energy and ideas continued to build toward the big event in Nairobi, February 2026.
 
 A major part of the session centered on sign-ups and enrollment. Sign-up means getting your ticket and being counted. Enrollment means joining the action — picking your role, filling out a short form and completing onboarding.
@@ -21,5 +23,3 @@ Beyond the hackathon, sustainability paths connect through Cardano Foundation le
 Coordination will happen mainly on Telegram with key updates also shared via Luma Blasts. The next steps are simple — register, complete your enrollment, join the Telegram groups and share your personal referral link.
 
 The final taster call will be on October 10th at the same time on Zoom.
- 
-A recording of this session is available here: [https://youtu.be/gKWdJHTK3PM](https://youtu.be/gKWdJHTK3PM)
