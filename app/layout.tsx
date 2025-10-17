@@ -1,5 +1,5 @@
 import { Footer, Layout, Navbar } from 'nextra-theme-docs'
-import { Banner, Head } from 'nextra/components';
+import { Head } from 'nextra/components';
 import { getPageMap } from 'nextra/page-map';
 import 'nextra-theme-docs/style.css';
 import '@/styles.css';
@@ -11,7 +11,6 @@ import { FaXTwitter } from "react-icons/fa6";
 import { FaTelegramPlane, FaGithub } from "react-icons/fa";
 import { BsCalendarWeek } from "react-icons/bs";
 
-const banner = <Banner storageKey="some-key">Upcoming hackathon: Nairobi, Kenya @ August 18-28, 2025</Banner>
 const iconClasses = "w-5 h-5 text-gray-600 dark:text-gray-400 transition-all duration-300 hover:scale-110"
 const hoverColorClasses = [
   'hover:text-wada-a',
@@ -25,9 +24,26 @@ const getRandomHoverColor = () => hoverColorClasses[Math.floor(Math.random() * h
 const navbar = (
   <Navbar
     logo={
-      <div>
-        <Image src="/brand_assets/Wada-RGB_Logo-Full-Alternative-Color.svg" width={140} height={60} alt="Wada Logo" />
-      </div>
+      <>
+        {/* Logo shown in dark mode */}
+        <Image
+            src="/brand_assets/Wada-RGB_Logo-Full-White.svg"
+            width={140}
+            height={60}
+            alt="Wada Logo"
+            className="hidden dark:block"
+            priority
+        />
+        {/* Logo shown in light mode */}
+        <Image
+            src="/brand_assets/Wada-RGB_Logo-Full-Black.svg"
+            width={140}
+            height={60}
+            alt="Wada Logo"
+            className="block dark:hidden"
+            priority
+        />
+      </>
     }
     logoLink={"https://www.wada.org/"}
     chatIcon={<FaTelegramPlane className={`${iconClasses} ${getRandomHoverColor()}`} />}
@@ -91,7 +107,6 @@ export default async function RootLayout({
       </Head>
       <body>
         <Layout
-          banner={banner}
           navbar={navbar}
           pageMap={await getPageMap()}
           docsRepositoryBase="https://github.com/WADAlliance/docs"

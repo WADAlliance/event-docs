@@ -40,6 +40,36 @@
         { "label": "Meet", "url": "https://cal.com/carlosq96", "icon": "FaPhone" },
         { "label": "GitHub", "url": "https://github.com/CarlosQ96", "icon": "FaGithub" }
       ]
+    },
+    {
+      "name": "Nana Safo",
+      "role": "Wada Global | Governance Lead",
+      "photo": "/nana.jpg",
+      "profile_card_link": "https://x.com/bhra_freezy",
+      "links": [
+        { "label": "Meet", "url": "https://calendar.app.google/cgYygmncnXs1XGZx5", "icon": "FaPhone" },
+        { "label": "LinkedIn", "url": "https://calendar.app.google/cgYygmncnXs1XGZx5", "icon": "FaLinkedinIn" }
+      ]
+    },
+    {
+      "name": "Darlington",
+      "role": "Blockchain Centre",
+      "photo": "/cowboy-d.jpg",
+      "profile_card_link": "http://blockchaincentrenbo.com/",
+      "links": [
+        { "label": "GitHub", "url": "https://github.com/profd2004", "icon": "FaGithub" },
+        { "label": "X (Twitter)", "url": "https://x.com/LidoNation", "icon": "FaXTwitter" }
+      ]
+    },
+    {
+      "name": "Nefertiti Strong",
+      "role": "Beyondthecode",
+      "photo": "/nef.jpeg",
+      "profile_card_link": "https://www.beyondthecode.ai/",
+      "links": [
+        { "label": "Meet", "url": "https://www.xragency.co/", "icon": "FaPhone" },
+        { "label": "LinkedIn", "url": "https://www.linkedin.com/in/angelica-nefertiti-strong-513018a/", "icon": "FaLinkedinIn" }
+      ]
     }
   ]
   

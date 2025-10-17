@@ -62,7 +62,7 @@ export const ProfileCard: FC<ProfileCardProps> = ({
       className={
         `relative flex flex-col items-center text-center rounded-xl 
         border p-6 transition hover:border-wada-c 
-        dark:border-neutral-700 bg-white dark:bg-gray-700/30 ${className}`
+        dark:border-neutral-700 bg-gray-200 dark:bg-gray-700/30 ${className}`
       }
     >
       <div className="absolute top-2 right-2 flex flex-row items-center">
@@ -74,7 +74,7 @@ export const ProfileCard: FC<ProfileCardProps> = ({
         )}
         {/* Expand Icon */}
         <button
-          className="rotate-45 text-gray-500 hover:text-gray-700 dark:hover:text-white"
+          className="rotate-45 text-gray-500 hover:text-gray-700 dark:hover:text-wada-c"
           onClick={handleExpand}
           aria-label="Expand Profile"
         >
