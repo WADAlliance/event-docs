@@ -23,7 +23,7 @@ Referenced indirectly. Sharing in case anyone wants to read ahead...
 
 ### How do we access people who have registered? 
 
-[Participants](https://docs.wada.org/enrolment/submissions/participant-enrolment) and [Hubs](https://docs.wada.org/enrolment/hub-enrolment)
+[Participants](/enrolment/submissions/participant) and [Hubs](/enrolment/submissions/hub)
 
 ### Are we meant to have a team already?
 
