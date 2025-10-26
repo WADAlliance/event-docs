@@ -70,6 +70,15 @@
         { "label": "Meet", "url": "https://www.xragency.co/", "icon": "FaPhone" },
         { "label": "LinkedIn", "url": "https://www.linkedin.com/in/angelica-nefertiti-strong-513018a/", "icon": "FaLinkedinIn" }
       ]
+    },
+    {
+      "name": "Sam Kobi",
+      "role": "Wada | Hubs Coordination Lead",
+      "photo": "/samK.jpg",
+      "profile_card_link": "https://www.linkedin.com/in/samuel-kobi-06157028a/",
+      "links": [
+        { "label": "GitHub", "url": "https://github.com/Samuel-Kobi", "icon": "FaGithub" }
+      ]
     }
   ]
   
