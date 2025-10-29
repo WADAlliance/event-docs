@@ -14,7 +14,7 @@ Referenced in the [Slides](https://docs.google.com/presentation/d/1Z-nuXr0gvCbcw
 3. [Deployment (slide 9)](https://docs.prisma.events/processes/ground-potentialising/deploy)
 4. [Map of Enrolments (slide 10)](https://potentialise.vercel.app/)
 
-###CATS Hackathon Enrollment II
+**CATS Hackathon Enrollment II**
 
 The second enrollment call moved the focus from why to how. This session was more hands-on. Prisma explained that the hackathon will run from November 1 to December 15 and this call was about helping participants connect what they are learning to the tools they will use. The session mixed short walkthroughs with breakout activities where participants practiced turning their real-life stories into projects that can be shared publicly.
 
@@ -24,4 +24,4 @@ Next, the Prisma team introduced the Publishing Stack, a group of lightweight ap
 
 In the Q&A, the team explained that documentation should include both technical and local context data, interviews, photos and reasoning so that projects are credible to funders and communities alike. While the stipend window has closed, new hubs can still join the training and access the tools. Participants without hubs can join online, but the focus remains on place-based teams working through their local hubs.
 
-The call ended with one message: start publishing now. Hubs will get their Docs sites ready, and teams should begin recording their community observations and early ideas. All recordings, guides, and links will be shared on the Docs site, and coordination will continue on Telegram. The next enrollment call will connect all these pieces so everyone can enter November ready to build, publish, and grow.
+The call ended with one message: start publishing now. Hubs will get their Docs sites ready and teams should begin recording their community observations and early ideas. All recordings, guides and links will be shared on the Docs site and coordination will continue on Telegram. The next enrollment call will connect all these pieces so everyone can enter November ready to build, publish, and grow.
