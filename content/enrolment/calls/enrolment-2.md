@@ -14,7 +14,7 @@ Referenced in the [Slides](https://docs.google.com/presentation/d/1Z-nuXr0gvCbcw
 3. [Deployment (slide 9)](https://docs.prisma.events/processes/ground-potentialising/deploy)
 4. [Map of Enrolments (slide 10)](https://potentialise.vercel.app/)
 
-**CATS Hackathon Enrollment II**
+# CATS Hackathon Enrollment II**
 
 The second enrollment call moved the focus from why to how. This session was more hands-on. Prisma explained that the hackathon will run from November 1 to December 15 and this call was about helping participants connect what they are learning to the tools they will use. The session mixed short walkthroughs with breakout activities where participants practiced turning their real-life stories into projects that can be shared publicly.
 
