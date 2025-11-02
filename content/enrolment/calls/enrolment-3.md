@@ -39,3 +39,4 @@ We then went into breakout rooms to discuss the question "What does success in t
 19. 8:33 - "how we facilitate these hackathons is about [action-learning](https://docs.prisma.events/patterns/action-learning) at its core - a forward movement as well as a reflective movement of learning"
 20. 8:53 - "tending to an extended audience of possible [funders and partners](https://docs.prisma.events/collaborators) who you'd like to engage in this work"
 21. 13:16 - "[this](https://potentialise.vercel.app) will be a way to showcase your work"
+
