@@ -44,25 +44,24 @@ We then went into breakout rooms to discuss the question "What does success in t
 
 **From Ideas to Action**
 
-The third enrollment call was all about moving from thinking to doing. With the hackathon running from November 1 to December 15, the focus turned to how hubs and teams can show their work as it happens — not just at the end.
+The third enrollment call was all about moving from thinking to doing. As the hackathon runs from November 1 to December 15, the focus turned to how hubs and teams can show their work as it happens and not just at the end.
 
-The main idea introduced was timelining — a simple way to capture learning in real time. Hubs were asked to create four Telegram channels named Ground Truths, Insights, Hypotheses, and Opportunities. Participants can drop short voice notes or messages as they explore their communities. These small entries become a living timeline that shows what people notice, how they make sense of it, and what they plan to try next. In earlier pilots, like Accra, hundreds of notes were collected and mapped to reveal shared patterns across teams.
+The main idea introduced was **timelining** — a simple way to capture learning in real time. Hubs were asked to create four Telegram channels named **Ground Truths, Insights, Hypotheses and Opportunities**. Participants can drop short voice notes or messages as they explore their communities. These small entries become a living timeline that shows what people notice, how they make sense of it and what they plan to try next. In earlier pilots like Accra, hundreds of notes were collected and mapped to reveal shared patterns across teams.
 
-All this content connects into the **Publishing Stack**, starting with **Docs** — a self-hosted “digital commons” for each hub. Here, teams post research, field notes, photos, and demos. Docs supports MDX, so they can mix stories with live data and visuals. Each hub owns its space and builds a case study that can later be showcased to funders and Summit audiences.
+All this content connects into the Publishing Stack, that is, starting with **Docs** — a self-hosted “digital commons” for each hub. Here, teams post research, field notes, photos and demos. Docs supports MDX so they can mix stories with live data and visuals. Each hub owns its space and builds a case study that can later be showcased to funders and Summit audiences.
 
-The call also introduced **Cardano integration through Andamio (by Gimbal Labs)**. It offers self-paced learning modules that reward learners with **on-chain credentials** for completed tasks. Tracks include off-chain development, Aiken smart contracts, NFT creation, and community management. Courses are in English and require a Cardano wallet, with hubs helping participants get started.
+The call also introduced Cardano integration through Andamio (by Gimbal Labs). It offers self-paced learning modules that reward learners with on-chain credentials for completed tasks. Tracks include off-chain development, Aiken smart contracts, NFT creation and community management. Courses are in English and require a Cardano wallet with hubs helping participants get started.
 
 Facilitators walked through the six-week structure again — three clear stages:
 
-1. **Regenerative Exploration** – walking, mapping, and capturing ground truths.
+1. **Regenerative Exploration** – walking, mapping and capturing ground truths.
     
-2. **Emergent Learning** – sharing data, forming insights, and choosing focus areas.
+2. **Emergent Learning** – sharing data, forming insights and choosing focus areas.
     
 3. **Action & Iteration** – prototyping solutions using Cardano tools.
     
+Participants can form teams by location or by shared purpose. Even though only a few hubs will receive stipends, any hub can still join the training and tools. Independent participants are also welcome to form teams though hubs remain the best base for coordination and storytelling.
 
-Participants can form teams by location or by shared purpose. While only a few hubs will receive stipends, any hub can still join the training and tools. Independent participants are also welcome to form teams, though hubs remain the best base for coordination and storytelling.
+The session ended with next steps: hubs should set up the four Telegram channels, deploy their Docs sites and start recording one note in each category. Each team should also create a starter page in Docs and choose an Andamio learning track to earn their first credential.
 
-The session ended with next steps: hubs should set up the four Telegram channels, deploy their Docs sites, and start recording one note in each category. Each team should also create a starter page in Docs and choose an Andamio learning track to earn their first credential.
-
-The message was simple — **start now, share often, and build together.** By mid-December, every hub and team will have a real, visible story to show — proof of how Cardano-driven collaboration takes root across Africa.
+The message was simple — start now, share often and build together. By mid-December, every hub and team will have a real  and a visible story to show. This is proof of how Cardano-driven collaboration takes root across Africa. 
