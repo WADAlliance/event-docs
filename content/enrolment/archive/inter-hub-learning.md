@@ -1,0 +1,3 @@
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/pD63VbPAxks?si=djJWTIw2NHjhi9yd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+We explored the question of how best to generate and share learnings between hubs.
