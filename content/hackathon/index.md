@@ -2,6 +2,7 @@
 asIndexPage: true
 sidebarTitle: Hackathon
 ---
+
 # November 1 – December 15: Hackathons – Building from Place, Coding for Impact
 
 This phase marks the most intensive phase of hands-on development in the lead-up to the Cardano Africa Tech Summit. An estimated sixteen simultaneous hackathons will unfold across Africa, coordinated by regional hubs and supported by a continental ecosystem of mentors, facilitators, and technical partners. These hackathons are not isolated coding marathons—they are structured action-learning experiences that combine regenerative thinking, skills development, and collaborative building.

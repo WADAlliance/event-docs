@@ -2,6 +2,7 @@
 asIndexPage: true
 sidebarTitle: Facilitation Handbook
 ---
+
 # Purpose of this Manual
 This manual is designed to guide hub leads across Africa in conducting the CATS [hackathons](/hackathon) (November 1 – December 15). It serves as both a facilitation handbook and a developmental framework, helping [hub](whatIsHub.md) leads host their hackathons in alignment with regenerative principles and the broader vision of the Cardano Africa Tech Summit.
 
