@@ -1,5 +1,3 @@
-Stage Three: Cardano Skills Training – Learning by Doing
-
 # 1. Overview for Hub Leads
 
 In stage 3 we move from exploration into creation. Participants now begin building skills while continuing to develop their solutions. The emphasis is on applied learning: teams learn Cardano development tools and apply them directly to their emerging project ideas.  
