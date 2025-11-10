@@ -1,3 +1,6 @@
+---
+sidebarTitle: Branding Templates
+---
 In order for hubs in CATS to be able to reach far and wide, whilst still maintaining a coherent sense of identity, we've prepared the following media assets to use as templates for:
 
 - Social media posts
