@@ -10,22 +10,22 @@ You can find the assets on Canva [here](https://www.canva.com/folder/FAF36PpShGE
 # Flyer
 The flyer template has dimensions 1080x1350 pixels and can be useful for physical printouts to hand to local community members, or as info cards/ resources for use in workshops.
 
-![CATS_branding_template_flyer1](CATS_branding_template_flyer1.png)
+![CATS_branding_template_flyer1](/CATS_branding_template_flyer1.png)
 
-![CATS_branding_template_flyer2](CATS_branding_template_flyer2.png)
+![CATS_branding_template_flyer2](/CATS_branding_template_flyer2.png)
 
 # Landscape/ Slides
 The landscape ratio, with 1080x566 pixels, is great for slide presentations and anything that requires a wider perspective. 
-![CATS_branding_template_slide1](CATS_branding_template_slide1.png)
+![CATS_branding_template_slide1](/CATS_branding_template_slide1.png)
 
-![CATS_branding_template_slide1](CATS_branding_template_slide1.png)
+![CATS_branding_template_slide1](/CATS_branding_template_slide1.png)
 
 # Square 
 With aspect ratio 1:1, square graphics are great for social media and any multi-purpose communication, because it looks good on both desktop and mobile. We have four variations for this one.
-![CATS_branding_template_square1](CATS_branding_template_square1.png)
+![CATS_branding_template_square1](/CATS_branding_template_square1.png)
 
-![CATS_branding_template_square2](CATS_branding_template_square2.png)
+![CATS_branding_template_square2](/CATS_branding_template_square2.png)
 
-![CATS_branding_template_square3](CATS_branding_template_square3.png)
+![CATS_branding_template_square3](/CATS_branding_template_square3.png)
 
-![CATS_branding_template_square4](CATS_branding_template_square4.png)
+![CATS_branding_template_square4](/CATS_branding_template_square4.png)
