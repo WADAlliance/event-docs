@@ -3,7 +3,6 @@
 sidebarTitle: Hub Selection Criteria
 
 ---
-
 # How will we select hubs? 
 
 [Hubs](/hubs) are selected to participate in the process through evaluation of the following criteria: 

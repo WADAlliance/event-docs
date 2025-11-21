@@ -6,7 +6,7 @@ sidebarTitle: Why is this hackathon so?
 
 # Origins
 
-There are a great number of differences between Prisma's approach to organising hackathons and many others. 
+There are a great number of differences between Prisma's approach to organising hackathons and many others. This difference is spoken to in [a call with a CATS hub lead](/enrolment/archive/publishing), and [an interview with a past participant](https://docs.prisma.events/events/accra/CarPool). 
 
 You may have noticed that so far in terms of a sense of unknown, vagueness, or ambiguity. Perhaps you have noticed the abstract language and seemingly never-ending nuance. 
 
