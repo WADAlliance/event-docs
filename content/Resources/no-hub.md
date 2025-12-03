@@ -4,7 +4,7 @@ As part of our commitment to fostering inclusive innovation across Africa, we ha
 
 The regional hackathons play a critical role in identifying local potential and turning them into viable, technologically driven systems-change. While many participants benefit from the guidance and resources provided by physical hubs, some communities lack these facilities, which means these brilliant innovators will have a different pathway through the programme. Our mission is to support you as you find your way.
 
-### **What the Online Support Hub Provides**
+### **What the Online Support Service Provides**
 
 The Online Support Service offers full remote assistance to ensure all participants, regardless of location, receive the same level of mentorship and preparation as those supported by partner hubs. This includes:
 
