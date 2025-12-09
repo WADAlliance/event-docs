@@ -2,14 +2,14 @@
 sidebarTitle: Project Submissions
 ---
 # Summary
-Two forms, both available on cats.wada.org/enrolment: 
+Two forms, both available on [cats.wada.org/enrolment](https://cats.wada.org/enrolment): 
 1. Hubs: Story publishing.
 2. Participants: Team formations.
 
 ### Deadlines
 The deadline for both forms is **December 15th**. 
 
-Allowing a grace period for any technical issues, we will accept submissions until December 19th, although these will be marked as late. Team forms will close on Dec 19 23:59 UTC (hard-stop). Any hub submissions after December 19th 23:59 UTC will be considered to have missed the deadline. 
+Allowing a grace period for any technical issues, we will accept submissions until December 19th, although these will be marked as late. Team forms will close on Dec 19 (hard-stop). Any hub submissions after December 19th will be considered to have missed the deadline. 
 # Full text
 What a journey it has been. And yet, this is only the beginning. Over the last weeks, hubs have been organising with local teams to engage with their local contexts from a fresh perspective. Participants have walked their neighbourhoods and identified their own areas they want to work on. Teams have formed around a common purpose. Now, they're starting to take the first steps toward that new potential they're seeing, distilling those insights into a technical build process. Some teams may be aiming for a prototype, some for an MVP (minimum viable product). In all cases, these projects, which are part technological, and part social, may grow to become interventions into their systems of place. Like acupuncture for the body, these teams, in deep relationship with their communities, are unlocking new pathways to walk toward the futures they collectively desire. [^1]
 
@@ -28,13 +28,13 @@ At the beginning we reflected to you your own question, ["How is this hackathon 
 In order to maintain boundaries and respect those that are participating in the programme, we are going to close these forms on a specific date. We are confirming and fixing the following timeline: 
 
 1. **December 15th:** Final deadline for both Team and Hub form submissions
-2. **December 19th:** Teams enrolment form will close (hard-stop at 23:59 UTC). Any hubs that have not yet uploaded their *first* story will be marked as having missed the deadline. 
+2. **December 19th:** Teams enrolment form will close (hard-stop). Any hubs that have not yet uploaded their *first* story will be marked as having missed the deadline. 
 	1. Hubs can still iterate their story after that point, with no negative consequences. This is encouraged. Please see [story publishing](/evaluation/story-publishing).
 	2. Hubs that made the official deadline of 15th will be identified favourably. The deadline of December 19th is a grace period for those that encounter technical issues and will be marked as a late submission. Submissions after the 19th will be considered as not having met the deadline. 
-	3. We have to enforce this deadline to leave evaluators enough time to see how our stories change and evolve. Remember, this is just the beginning. 
+	3. We have to enforce this deadline to leave evaluators enough time to see how your stories change and evolve. Remember, this is just the beginning. 
 3. **January 6th:** This is the deadline for evaluators to select the top 3 teams from each place. 
 4. **January 9th:** This is the deadline for evaluators to select the top 5 teams from the whole programme.
 
-To better understand how we're guiding evaluators, please see the page on [Evaluation Guidance](/evaluation/evaluation-guidance).
+To better understand how we're guiding evaluators, please see the page on [Evaluation Guidance](/evaluation).
 
 [^1]: Desire - to await what the stars will bring. _De sidere_ "from the stars." [ref](https://www.etymonline.com/word/desire) 
