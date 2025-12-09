@@ -37,11 +37,11 @@ Hub leads should ensure that the technical learning remains relational and conte
 
 # 6. Expected Outputs
 
-* 
+Please see [submission](/evaluation/submission).
 
 # 7. Documentation and Storytelling Guidance
 
-- 
+Please see [story-publishing](/evaluation/story-publishing).
 
 # 8. Checklist for Hub Leads
 
