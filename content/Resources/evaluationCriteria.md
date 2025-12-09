@@ -2,7 +2,7 @@
 sidebarTitle: Evaluation Criteria
 ---
 
-[Evaluation](https://docs.prisma.events/processes/evaluation). The criteria will be written in the course of the process.
+The criteria will be written in the course of the process.
 
 Evaluators will join from multiple disciplines and each brings with them a specialised perspective from which they will evaluate projects. These disciplines include but are not limited to:
 
