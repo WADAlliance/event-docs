@@ -5,8 +5,8 @@ Today - Jan 6
 
 Thursday - Jan 8
 
-- A [final review call](https://luma.com/h8ebwg7v) on Thursday will cover insights, key considerations, and final questions before voting
-- Final offline voting concludes (EOD)
+- A [final check-in call](https://luma.com/h8ebwg7v) on Thursday will cover insights, key considerations, and final questions before any outstanding form submissions are made
+- Final offline voting concludes (00:00 WAT)
 
 Friday - Jan 9
 
