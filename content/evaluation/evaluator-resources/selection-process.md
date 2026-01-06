@@ -1,3 +1,7 @@
+---
+sidebarTitle: Selection Process
+---
+
 # What to Review
 There are over 100 teams. In order to streamline the process and avoid evaluator fatigue, hubs have nominated exactly 3 top teams. We call this "Team Spotlighting." We are trusting the hubs’ initial selection and keeping this stage intentionally simple.
 # Selection Method
