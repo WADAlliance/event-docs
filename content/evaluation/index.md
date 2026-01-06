@@ -15,7 +15,9 @@ The following two calls show how they were introduced to the process:
 # Evaluator Resources
 The resources shared in this page are provided to support their work. 
 
-1. Selection Form
+1. [Selection Form](https://tally.so/r/D4kALR)
 2. [Selection Process](/evaluation/evaluator-resources/selection-process)
-3. [Jan 6 - Jan 9 Evaluation Process Timeline](/evaluation/evaluator-resources/timeline)
-4. Scheduling Links
+3. [Hub Allocations](/evaluation/evaluator-resources/allocations)
+4. [Jan 6 - Jan 9 Evaluation Process Timeline](/evaluation/evaluator-resources/timeline)
+5. Scheduling Links
+6. [Jan 8 Final Review Call](https://luma.com/h8ebwg7v)

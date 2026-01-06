@@ -1,7 +1,13 @@
+Today - Jan 6
 
-| Date   | Call Schedule                                                             | Offline/Follow-up                                                            | Notes                                                                                                                                                                                    |
-| ------ | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Jan 06 | Onboarding call with evaluators                                           | Send sign-up sheet for each evaluator to know which hub they are focusing  Evaluators look around through the potentialise app (be careful to not explore more than the top teams per hub)  <br>[https://potentialise.wada.org/](https://potentialise.wada.org/)  )  )  |
-| Jan 07 | Follow-up "office hours" to go over questions once evaluation has started |                                                                              | Organizing Team members available for one-on-one se                                                                                                                                      |
-| Jan 08 | Discussion Call where we go over pros and cons of projects                | Offline voting (official) form                                                                                                                                                                                                                                          |
-| Jan 09 | Short internal call to sync on winners (optional for evaluators)          | Announce winning teams via email, and send prizes                            | Make a plan for Incubation Phase: next 4 Thursda                                                                                                                                         |
+- Review top three projects for assigned hubs
+- Submit rankings and rationales via form (will be shared Thursday)
+
+Thursday - Jan 8
+
+- A [final review call](https://luma.com/h8ebwg7v) on Thursday will cover insights, key considerations, and final questions before voting
+- Final offline voting concludes (EOD)
+
+Friday - Jan 9
+
+- Winners confirmed and announced
