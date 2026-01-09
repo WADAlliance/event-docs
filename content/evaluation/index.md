@@ -12,6 +12,7 @@ The following two calls show how evaluators were introduced to the process:
 
 1. [Evaluation Demo (5 Jan 2026)](/evaluation/Calls/demo)
 2. [Evaluator Onboarding (6 Jan 2026)](/evaluation/Calls/onboarding)
+2. [Evaluator Check-in (8 Jan 2026)](/evaluation/Calls/evaluator-checkin)
 
 The resources shared in this page are provided to support their work. 
 
