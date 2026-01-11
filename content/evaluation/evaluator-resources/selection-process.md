@@ -4,8 +4,9 @@ sidebarTitle: Selection Process
 
 # What to Review
 There are over 100 teams. In order to streamline the process and avoid evaluator fatigue, hubs have nominated exactly 3 top teams. We call this "Team Spotlighting." We are trusting the hubs’ initial selection and keeping this stage intentionally simple.
+
 # Selection Method
-External evaluators then rank those top 3 teams: 1st, 2nd, 3rd. Teams receive points based on their ranking. Final scores will be averaged across all evaluator contributions, and the top score identifies which is the top team for that hub. 
+External evaluators then rank those top 3 teams: 1st, 2nd, 3rd. Teams receive points based on their ranking. Scores will be summed across all evaluator contributions, and the top score identifies which is the top team for that hub. 
 
 | Rank | Points |
 | ---- | ------ |
