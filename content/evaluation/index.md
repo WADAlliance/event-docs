@@ -30,4 +30,4 @@ Calls:
 1. [Jan 8 Final Check-in Call](https://luma.com/h8ebwg7v)
 2. [Scheduling Links](/evaluation/evaluator-resources/scheduling)
 
-After results were shared, [evaluation feedback](/evaluation/calls/evaluation-feedback) was given by the hub leads. 
+After results were shared, [evaluation feedback](/evaluation/Calls/evaluation-feedback) was given by the hub leads. 
