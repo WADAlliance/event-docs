@@ -8,7 +8,7 @@ asIndexPage: true
 # Evaluators
 The evaluators cohort for CATS 2026 is visible on the partners section of [the globe](https://potentialise.wada.org). 
 
-The following two calls show how evaluators were introduced to the process:
+The following calls show how evaluators were introduced to the process:
 
 1. [Evaluation Demo (5 Jan 2026)](/evaluation/Calls/demo)
 2. [Evaluator Onboarding (6 Jan 2026)](/evaluation/Calls/onboarding)
@@ -29,3 +29,5 @@ Pages:
 Calls:
 1. [Jan 8 Final Check-in Call](https://luma.com/h8ebwg7v)
 2. [Scheduling Links](/evaluation/evaluator-resources/scheduling)
+
+After results were shared, [evaluation feedback](/evaluation/calls/evaluation-feedback) was given by the hub leads. 
